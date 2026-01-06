@@ -9,3 +9,6 @@ Jawaban No. 1
 
 Jawaban No. 2
 <img width="352" height="117" alt="image" src="https://github.com/user-attachments/assets/8e50b3df-24de-4e1b-9ccc-bd0e5a829967" />
+
+Jawaban No. 3
+<img width="366" height="61" alt="image" src="https://github.com/user-attachments/assets/22df02e4-72d9-46b2-acce-4a452bb0899e" />
